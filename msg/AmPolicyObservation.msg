@@ -27,7 +27,7 @@ uint32 DEGRADED_LOCAL_XY_INVALID = 1
 uint32 DEGRADED_LOCAL_VXY_INVALID = 2
 uint32 DEGRADED_SETPOINT_DEFAULTED = 4
 
-float32[25] observation
+float32[24] observation
 float32[4] raw_action
 float32[4] mapped_action
 
