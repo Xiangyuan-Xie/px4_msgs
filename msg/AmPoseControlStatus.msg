@@ -21,6 +21,7 @@ bool offboard_selector_mismatch
 
 bool policy_loaded
 uint8 policy_observation_dim
+bool policy_uses_arm_position
 bool policy_uses_arm_velocity
 bool policy_blend_active
 
